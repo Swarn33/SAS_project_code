@@ -27,7 +27,7 @@ Data:
 - Refinitiv
 - Yahoo finance
 
-Research paper references for making Geopolitics Google Sentiment Indicator
+Research paper references: Coming soon
 
 
 # Master code files for all the programs is attached in sas file.
